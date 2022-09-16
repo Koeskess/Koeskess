@@ -2,7 +2,7 @@
 
 - 📖 Cursando: Análise e Desenvolvimento de Sistemas - 2 semestre 
 - 💙 PROA | Programação
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/Koeskess">
